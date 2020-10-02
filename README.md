@@ -19,9 +19,9 @@ Here are some ideas to get you started:
     <a href='https://github.com/rdrachenberg/tutorial-professor/blob/master/index.js'>
         <img src='https://img.shields.io/badge/JavaScript-86%25-brightgreen?style=plastic&logo=javascript'>
     </a>
-    <img src='https://img.shields.io/badge/HTML-7.7%25-blue?style=plastic&logo=HTML5'>
+    <img src='https://img.shields.io/badge/HTML-8%25-blue?style=plastic&logo=HTML5'>
     <a href='https://github.com/rdrachenberg/tutorial-professor/tree/master/static/css'>
-        <img src='https://img.shields.io/badge/CSS-5.7%25-blue?style=plascit&logo=CSS3&logoColor=green'>
+        <img src='https://img.shields.io/badge/CSS-6%25-blue?style=plascit&logo=CSS3&logoColor=green'>
     </a>
     <a href='https://github.com/rdrachenberg'>
         <img src='https://img.shields.io/badge/Mongo%20-DB-blue?style=plastic&logo=mongoDB&logoColor=success'>
@@ -44,5 +44,8 @@ Here are some ideas to get you started:
     <img src='https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif' width='175px'>
 </p>
 
-
-
+- <img src='https://media2.giphy.com/media/QUXK4fFx8kYci4mcar/giphy.gif?cid=790b7611d29c0c179034ea3abdd3a89f18d2d57d9999dc8b&rid=giphy.gif' width='13px'> I’m currently working on blockchain development <img src='https://media2.giphy.com/media/QUXK4fFx8kYci4mcar/giphy.gif?cid=790b7611d29c0c179034ea3abdd3a89f18d2d57d9999dc8b&rid=giphy.gif' width='13px'>
+- 👥 I’m looking to collaborate on any open ledger technologies 👥
+- 🏦 Ask me about my passion for Fintech 🏦
+- 📫 How to reach me: <ryanDrachenberg@gmail.com> 📫
+- ⚡ Fun fact: I have a fascination for history and markets. Ask me about 🌷Tulip Mania🌷 ⚡
