@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align='center'>
+<img src='../screedbot (1).gif'>
+</p>
 <p align='center'>
     <a href='https://github.com/rdrachenberg/tutorial-professor/blob/master/index.js'>
         <img src='https://img.shields.io/badge/JavaScript-86%25-brightgreen?style=plastic&logo=javascript'>
