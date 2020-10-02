@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <img src='https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif' width='175px'>
 </p>
 
-- <img src='https://media2.giphy.com/media/QUXK4fFx8kYci4mcar/giphy.gif?cid=790b7611d29c0c179034ea3abdd3a89f18d2d57d9999dc8b&rid=giphy.gif' width='13px'> I’m currently working on blockchain development <img src='https://media2.giphy.com/media/QUXK4fFx8kYci4mcar/giphy.gif?cid=790b7611d29c0c179034ea3abdd3a89f18d2d57d9999dc8b&rid=giphy.gif' width='13px'>
+- 👨‍💻 I’m currently working on blockchain development 👨‍💻
 - 👥 I’m looking to collaborate on any open ledger technologies 👥
 - 🏦 Ask me about my passion for Fintech 🏦
 - 📫 How to reach me: <ryanDrachenberg@gmail.com> 📫
