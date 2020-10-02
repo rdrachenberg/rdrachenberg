@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
 [![ryan drachenberg's github stats](https://github-readme-stats.vercel.app/api?username=rdrachenberg)](https://github.com/rdrachenberg/github-readme-stats)
-
+</p>
 <p align="center">
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rdrachenberg&theme=blue-green'>
 </p>
