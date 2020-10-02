@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align='center'>
-<img src='../screedbot (1).gif'>
+<img src='./ryan-drachenberg.gif'>
 </p>
 <p align='center'>
     <a href='https://github.com/rdrachenberg/tutorial-professor/blob/master/index.js'>
