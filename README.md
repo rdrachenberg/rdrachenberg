@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 - 👥 I’m looking to collaborate on any open ledger technologies 👥
 - 🏦 Ask me about my passion for Fintech 🏦
 - 📫 How to reach me: <ryanDrachenberg@gmail.com> 📫
-- ⚡ Fun fact: I have a fascination for history and markets. Ask me about 🌷Tulip Mania🌷 ⚡
+- ⚡ Fun fact: I have a fascination for history and markets. ⚡ Ask me about 🌷 Tulip Mania 🌷
