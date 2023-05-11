@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img src='https://github-readme-stats.vercel.app/api?username=rdrachenberg' width='400px' height='200px'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rdrachenberg' height='195px'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rdrachenberg&langs_count=5' height='195px'>
     <img src='https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif' width='175px'>
 </p>
 
